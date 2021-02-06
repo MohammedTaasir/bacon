@@ -1,5 +1,5 @@
 h1{
-  color: #00b8a9;
+  color: #ffc75f;
   font-style: italic;
   font-size: 30px;
 }
@@ -21,4 +21,15 @@ img:hover{
 
 .center{
   border-radius: 100%;
+}
+
+p{
+  color: #f875aa;
+  font-style: normal;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+body{
+  background-color: #845ec2;
 }
